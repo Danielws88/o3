@@ -1,0 +1,47 @@
+﻿  Graph.cpp
+C:\Algorithms and Data Structures\Algoritmer-Datastruk\Oblig3\Oblig3\Graph.cpp(4,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Algorithms and Data Structures\Algoritmer-Datastruk\Oblig3\Oblig3\Graph.cpp(149,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(190,48): warning C4267: 'initializing': conversion from 'size_t' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(231): message : see reference to function template instantiation 'std::pair<int,int>::pair<size_t&,const int&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=size_t &,
+              _Other2=const int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(238): message : see reference to function template instantiation 'std::pair<int,int>::pair<size_t&,const int&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              _Other1=size_t &,
+              _Other2=const int &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(829): message : see reference to function template instantiation 'void std::_Construct_in_place<std::pair<int,int>,size_t&,const int&>(_Ty &,size_t &,const int &) noexcept' being compiled
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(816): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<size_t&,const int&>(size_t &,const int &)' being compiled
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(822): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<size_t&,const int&>(size_t &,const int &)' being compiled
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(902): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<size_t&,const int&>(size_t &,const int &)' being compiled
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\vector(904): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<size_t&,const int&>(size_t &,const int &)' being compiled
+          with
+          [
+              _Ty=std::pair<int,int>
+          ]
+C:\Algorithms and Data Structures\Algoritmer-Datastruk\Oblig3\Oblig3\Graph.cpp(41): message : see reference to function template instantiation 'void std::vector<std::pair<int,int>,std::allocator<std::pair<int,int>>>::emplace_back<size_t&,const int&>(size_t &,const int &)' being compiled
+  Oblig3.vcxproj -> C:\Algorithms and Data Structures\Algoritmer-Datastruk\Oblig3\x64\Debug\Oblig3.exe
